@@ -1,0 +1,172 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    background-color: #242424;
+    height: 50px;
+}
+
+.header_content {
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+}
+
+.header_left {
+    float: left;
+    margin-top: 14px;
+    color: aliceblue;
+}
+
+nav {
+    width: 25%;
+    float: right;
+    margin-top: 14px;
+    color: aliceblue;
+}
+
+nav ul {
+    list-style: none;
+    overflow: hidden;
+}
+
+nav ul li {
+    float: left;
+    margin-right: 35px;
+    font-size: 17px;
+
+}
+
+.sec_main {
+    width: 90%;
+    overflow: hidden;
+    margin-top: 25px;
+}
+
+.section_one {
+    margin-left: 30%;
+}
+
+.section_one img {
+    width: 70%;
+}
+
+section {
+    overflow: hidden;
+}
+
+.main_content {
+    width: 90%;
+    margin: auto;
+}
+
+.left_content {
+    float: left;
+    width: 28%;
+    text-align: center;
+}
+
+.left_content img {
+    width: 120px;
+}
+
+.left_content p {
+    margin-top: 10px;
+}
+
+.medil_content {
+    float: left;
+    width: 28%;
+    text-align: center;
+    margin-left: 8%;
+}
+
+.medil_content img {
+    width: 120px;
+}
+
+.medil_content p {
+    margin-top: 10px;
+}
+
+.right_content {
+    float: right;
+    width: 28%;
+    text-align: center;
+}
+
+.right_content img {
+    width: 120px;
+}
+
+.right_content p {
+    margin-top: 10px;
+}
+
+.luctus_content {
+    width: 90%;
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.luctus_one {
+    float: left;
+    text-align: center;
+    width: 49%;
+}
+
+.luctus_one h4 {
+    margin-bottom: 10px;
+}
+
+.luctus_one p {
+    margin-bottom: 45px;
+
+}
+
+.luctus_one img {
+    width: 90%;
+}
+
+.luctus_two {
+    float: right;
+    text-align: center;
+    width: 49%;
+}
+
+.luctus_two h4 {
+    margin-bottom: 10px;
+}
+
+.luctus_two p {
+    margin-bottom: 45px;
+}
+
+.luctus_two img {
+    width: 90%;
+}
+
+footer {
+    background-color: #242424;
+    text-align: center;
+    color: #3277B4;
+    margin-top: 80px;
+}
+
+.footer_top {
+    padding-top: 15px;
+}
+
+.footer_midel {
+    padding-top: 5px;
+    color: #717171;
+}
+
+.footer_bottom {
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
